@@ -3,8 +3,7 @@
 ---
 
 ## Identitas Mahasiswa
-- **Nama**: Muhammad Fath Haidari
-- **NIM**: 25523167
+- **Nama**: Muhammad Fath Haidari(25523167), WAHYU NURGHOLIB RAZAK(25523057)
 - **Kelas**: A
 
 ---
