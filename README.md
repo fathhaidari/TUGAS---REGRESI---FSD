@@ -13,12 +13,12 @@
 1. **Bagian A (Linear Regression)**
    - **Dataset**: California Housing Dataset (`sklearn.datasets.fetch_california_housing`)
    - **Tautan Sumber**: [Scikit-Learn California Housing Documentation](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
-   - **Deskripsi**: Dataset berisi data sensus California tahun 1990 untuk memprediksi harga median rumah (`MedHouseVal`) berdasarkan 8 fitur prediktor seperti median pendapatan, umur rumah, dan lokasi geospasial[cite: 1].
+   - **Deskripsi**: Dataset berisi data sensus California tahun 1990 untuk memprediksi harga median rumah (`MedHouseVal`) berdasarkan 8 fitur prediktor seperti median pendapatan, umur rumah, dan lokasi geospasial
 
 2. **Bagian B (Logistic Regression)**
    - **Dataset**: Breast Cancer Wisconsin Dataset (`sklearn.datasets.load_breast_cancer`)
    - **Tautan Sumber**: [Scikit-Learn Breast Cancer Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
-   - **Deskripsi**: Dataset diagnostik medis berisi 30 fitur pengukuran fisik sel untuk mengklasifikasikan kategori tumor menjadi **Ganas (Malignant / 0)** atau **Jinak (Benign / 1)**[cite: 1].
+   - **Deskripsi**: Dataset diagnostik medis berisi 30 fitur pengukuran fisik sel untuk mengklasifikasikan kategori tumor menjadi **Ganas (Malignant / 0)** atau **Jinak (Benign / 1)**
 
 ---
 
@@ -46,6 +46,6 @@
 
 ## Rincian Kontribusi
 Dikarenakan pengerjaan tugas dilakukan secara mandiri, seluruh tahapan proyek dikerjakan secara utuh oleh **Muhammad Fath Haidari**:
-1. Penyiapan dataset, eksplorasi data (EDA), preprocessing, pemodelan, dan evaluasi pada notebook Bagian A (`A_linear_regression.ipynb`)[cite: 1].
-2. Penyiapan dataset, eksperimen klasifikasi, analisis *Confusion Matrix*, dan kurva ROC pada notebook Bagian B (`B_logistic_regression.ipynb`)[cite: 1].
-3. Penyusunan repositori GitHub, pengelolaan berkas notebook, dan dokumentasi proyek pada `README.md`[cite: 1].
+1. Penyiapan dataset, eksplorasi data (EDA), preprocessing, pemodelan, dan evaluasi pada notebook Bagian A (`A_linear_regression.ipynb`)
+2. Penyiapan dataset, eksperimen klasifikasi, analisis *Confusion Matrix*, dan kurva ROC pada notebook Bagian B (`B_logistic_regression.ipynb`)
+3. Penyusunan repositori GitHub, pengelolaan berkas notebook, dan dokumentasi proyek pada `README.md`
