@@ -45,7 +45,7 @@
 ---
 
 ## Rincian Kontribusi
-Dikarenakan pengerjaan tugas dilakukan secara mandiri, seluruh tahapan proyek dikerjakan secara utuh oleh **Muhammad Fath Haidari**:
-1. Penyiapan dataset, eksplorasi data (EDA), preprocessing, pemodelan, dan evaluasi pada notebook Bagian A (`A_linear_regression.ipynb`)
-2. Penyiapan dataset, eksperimen klasifikasi, analisis *Confusion Matrix*, dan kurva ROC pada notebook Bagian B (`B_logistic_regression.ipynb`)
+
+1. Muhammad Fath Haidari: Penyiapan dataset, eksplorasi data (EDA), preprocessing, pemodelan, dan evaluasi pada notebook Bagian A (`A_linear_regression.ipynb`)
+2. Wahyu NurGholib Razak: Penyiapan dataset, eksperimen klasifikasi, analisis *Confusion Matrix*, dan kurva ROC pada notebook Bagian B (`B_logistic_regression.ipynb`)
 3. Penyusunan repositori GitHub, pengelolaan berkas notebook, dan dokumentasi proyek pada `README.md`
