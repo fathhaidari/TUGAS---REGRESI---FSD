@@ -3,7 +3,7 @@
 ---
 
 ## Identitas Mahasiswa
-- **Nama**: Muhammad Fath Haidari(25523167), WAHYU NURGHOLIB RAZAK(25523057)
+- **Nama**: Muhammad Fath Haidari(25523167), WAHYU NURGHOLIB RAZAK(25523057), Muhammad Ziaul Haq(25523065)
 - **Kelas**: A
 
 ---
@@ -47,5 +47,5 @@
 ## Rincian Kontribusi
 
 1. Muhammad Fath Haidari: Penyiapan dataset, eksplorasi data (EDA), preprocessing, pemodelan, dan evaluasi pada notebook Bagian A (`A_linear_regression.ipynb`)
-2. Wahyu NurGholib Razak: Penyiapan dataset, eksperimen klasifikasi, analisis *Confusion Matrix*, dan kurva ROC pada notebook Bagian B (`B_logistic_regression.ipynb`)
-3. Penyusunan repositori GitHub, pengelolaan berkas notebook, dan dokumentasi proyek pada `README.md`
+2. Wahyu NurGholib Razak & Muhammad Ziaul haq: Penyiapan dataset, eksperimen klasifikasi, analisis *Confusion Matrix*, dan kurva ROC pada notebook Bagian B (`B_logistic_regression.ipynb`)
+3. (Bersama) Penyusunan repositori GitHub, pengelolaan berkas notebook, dan dokumentasi proyek pada `README.md`
